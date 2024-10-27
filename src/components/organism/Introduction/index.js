@@ -16,7 +16,7 @@ const Introduction = () => {
           className="md:w-full md:h-full lg:w-[80%] lg:h-[80%] xl:w-[50%] xl:h-[50%]"
         /> */}
         <img
-          src="/image/foto.png"
+          src="image/foto.png"
           className="rounded-full md:w-full md:h-full lg:w-[80%] lg:h-[80%] xl:w-[50%] xl:h-[50%]"
         />
       </div>
